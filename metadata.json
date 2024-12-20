@@ -1,0 +1,54 @@
+{
+  "id": "IED4D37D3",
+  "title": {
+    "BO": "རྡོ་རྗེ་གཅོད་པ་དེབ།",
+    "EN": "Vajra Cutter Book"
+  },
+  "author": null,
+  "imported": "2024-12-20T21:29:25.847155",
+  "source": null,
+  "toolkit_version": "0.0.1",
+  "parser": "GoogleDocTranslationParser",
+  "initial_creation_type": "google_docx",
+  "language": "bo",
+  "source_metadata": {
+    "title_short": {
+      "BO": "རྡོ་རྗེ་གཅོད་པ་དེབ།",
+      "EN": "Vajra Cutter Book"
+    },
+    "title_long_clean": {
+      "BO": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ།"
+    },
+    "title_alt_1": {
+      "BO": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལད་ཏུ་ཕྱིནད་པ་རྡོ་རྗེ་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།"
+    },
+    "title_alt_2": {
+      "BO": "རྡོ་རྗེ་སུམ་བརྒྱ་པའམ་རྡོ་རྗེ་གཅོད་པ།"
+    },
+    "is_version_of": {
+      "BO": "རྡོ་རྗེ་གཅོད་པ་དེབ།"
+    },
+    "segmentation_transfered": [
+      {
+        "source": "downloads/P2/I4111C449/layers/D64F/Tibetan_Segment-BD6E.json",
+        "transfered": "downloads/P1/IED4D37D3/layers/5DA7/Tibetan_Segment-BD6E.json"
+      }
+    ]
+  },
+  "bases": [
+    {
+      "5DA7": {
+        "source_metadata": {
+          "total_segments": 431
+        },
+        "base_file": "5DA7.txt"
+      }
+    }
+  ],
+  "copyright": {
+    "status": "Unknown",
+    "notice": "",
+    "info_url": null
+  },
+  "licence": "Unknown"
+}
